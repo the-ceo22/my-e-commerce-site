@@ -493,7 +493,213 @@ export const storeProducts = [
     inCart: false,
     count: 0,
     total: 0
-  }
+  },
+
+
+  {
+    id: 40,
+    title: 'Slim Shirt',
+    img: 'img/d1.jpg',
+    price: 69,
+    brand: 'Varsace',
+    info: 'Original Varsace Slim-fit shirt',
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+
+  { id: 41,
+    title: 'Slim Shirt',
+    img: 'img/d2.jpg',
+    price: 65,
+    brand: 'Prada',
+    info: 'Original Prada Slim-fit shirt',
+    count: 0,
+    total: 0    
+  },
+
+  { id: 42,
+    title: 'Slim Fit T-Shirt',
+    img: 'img/d3.jpg',
+    price: 50,
+    brand: 'Forest',
+    info: 'Original Forest Slim-fit T-shirt',
+    count: 0,
+    total: 0    
+    
+  },
+
+  { id: 43,
+    title: 'Polo T-Shirt',
+    img: 'img/d4.jpg',
+    price: 53,
+    brand: 'BYC',
+    info: 'Original BYC branded Slim-fit T-shirt',
+    count: 0,
+    total: 0        
+  },
+
+  { id: 44,
+    title: 'Polo T-Shirt',
+    img: 'img/d5.jpg',
+    price: 53,
+    brand: 'Zecca',
+    info: 'Original T-shirt from Zecca Itallian finest wears producers',
+    count: 0,
+    total: 0            
+  },
+
+  { id: 45,
+    title: 'Polo T-Shirt',
+    img: 'img/d6.jpg',
+    price: 60,
+    brand: 'Frank Vick',
+    info: 'Original Frank Vick Slim-fit T-shirt',
+    count: 0,
+    total: 0                
+  },
+
+  { id: 46,
+    title: 'Face Cap',
+    img: 'img/d7.jpg',
+    price: 54,
+    brand: 'Tommy Hilfiger',
+    info: 'Original Tommy Hilfiger branded face cap',
+    count: 0,
+    total: 0                
+    
+  },
+
+  { id: 47,
+    title: 'Trousers',
+    img: 'img/d8.jpg',
+    price: 70,
+    brand: 'TM Lewin',
+    info: 'Original quality slim-fit trouser from TM Lewin',
+    count: 0,
+    total: 0                
+    
+  },
+
+  { id: 48,
+    title: 'Slim Trousers',
+    img: 'img/d9.jpg',
+    price: 70,
+    brand: 'Cucci',
+    info: 'Original quality slim-fit trouser from Cucci',
+    count: 0,
+    total: 0                    
+  },
+
+  { id: 49,
+    title: 'Slim Trousers',
+    img: 'img/d10.jpg',
+    price: 60,
+    brand: 'Bosch',
+    info: 'Original quality slim-fit trouser from Bosch',
+    count: 0,
+    total: 0                        
+  },
+
+  { id: 50,
+    title: 'Sneakers',
+    img: 'img/d11.jpg',
+    price: 65,
+    brand: 'Nike',
+    info: 'Original Sneakers from Nike',
+    count: 0,
+    total: 0                            
+  },
+
+  { id: 51,
+    title: 'Leather Shoes',
+    img: 'img/d12.jpg',
+    price: 70,
+    brand: 'Cucci',
+    info: 'Original Itallian leather footwear made by Cucci',
+    count: 0,
+    total: 0                            
+  },
+
+  { id: 52,
+    title: 'Sneakers',
+    img: 'img/d13.jpg',
+    price: 72,
+    brand: 'Addidas',
+    info: 'Original Qaulity Sneakers, one of Addidas finest designs',
+    count: 0,
+    total: 0                            
+  },
+
+  { id: 53,
+    title: "Men's Suit",
+    img: 'img/d14.jpg',
+    price: 90,
+    brand: 'Veragamo',
+    info: 'Veragamo original stylish and quality men suit',
+    count: 0,
+    total: 0                            
+  },
+
+  { id: 54,
+    title: "Men's Suit",
+    img: 'img/d15.jpg',
+    price: 89,
+    brand: 'Gorgio Armani',
+    info: 'Original stylish and quality men suit, made by Black Men',
+    count: 0,
+    total: 0                            
+  },
+
+  { id: 55,
+    title: "Men's Suit",
+    img: 'img/d16.jpg',
+    price: 92,
+    brand: 'Lorenzo',
+    info: 'Lorenzo original stylish and quality men suit',
+    count: 0,
+    total: 0                            
+  },
+
+  { id: 56,
+    title: "Men's Suit",
+    img: 'img/d17.jpg',
+    price: 100,
+    brand: 'TM Lewin',
+    info: 'Top quality stylish men suit carefully crafted and well design bt TM Lewin',
+    count: 0,
+    total: 0                            
+  },
+  
+  { id: 57,
+    title: "Men's Pants",
+    img: 'img/d18.jpg',
+    price: 15,
+    brand: 'Polo',
+    info: 'Original Polo branded pants',
+    count: 0,
+    total: 0                            
+  },
+
+  { id: 58,
+    title: "Men's Boxers",
+    img: 'img/d19.jpg',
+    price: 12,
+    brand: 'Phil Collins',
+    info: 'Original Polo branded boxers',
+    count: 0,
+    total: 0                            
+  },
+
+  { id: 59,
+    title: "Men's Pant",
+    img: 'img/d20.jpg',
+    price: 13,
+    brand: 'Polo',
+    info: 'Original Polo branded pants',
+    count: 0,
+    total: 0                            
+  },
 ];
 
 

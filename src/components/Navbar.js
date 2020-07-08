@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import icon from '../icon.png';
+//import icon from '../icon.png';
 import cart from '../cart.png';
 import { ButtonContainer } from '../components/Button';
 import styled from 'styled-components';
@@ -10,8 +10,9 @@ export default class Navbar extends Component {
     return (
       <NavWrapper className="navbar navbar-expand-sm navbar-dark px-sm-5">
         <Link to='/' className="text-decoration-none">
-          <img src={icon} alt="phone" className="navbar-brand" />
-          <h6 className="shp">Shopify</h6>
+         {/* <img src={icon} alt="phone" className="navbar-brand" />*/}
+          <span className="spn">&#9776;</span>
+          <h5 className="shp">nestlify.com</h5>
         </Link>
         <ul className="navbar-nav align-items-center">
           <li className="nav-item ml-2">
