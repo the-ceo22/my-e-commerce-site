@@ -652,6 +652,16 @@ export const storeProducts = [
   },
 
   { id: 55,
+    title: "Bump-Short",
+    img: 'img/bumpshort.jpeg',
+    price: 13,
+    brand: 'Polo',
+    info: 'Original Polo Branded Bump-short',
+    count: 0,
+    total: 0                            
+  },
+
+  { id: 56,
     title: "Men's Suit",
     img: 'img/d16.jpg',
     price: 92,
@@ -661,7 +671,7 @@ export const storeProducts = [
     total: 0                            
   },
 
-  { id: 56,
+  { id: 57,
     title: "Men's Suit",
     img: 'img/d17.jpg',
     price: 100,
@@ -671,7 +681,7 @@ export const storeProducts = [
     total: 0                            
   },
   
-  { id: 57,
+  { id: 58,
     title: "Men's Pants",
     img: 'img/d18.jpg',
     price: 15,
@@ -681,7 +691,7 @@ export const storeProducts = [
     total: 0                            
   },
 
-  { id: 58,
+  { id: 59,
     title: "Men's Boxers",
     img: 'img/d19.jpg',
     price: 12,
@@ -691,7 +701,17 @@ export const storeProducts = [
     total: 0                            
   },
 
-  { id: 59,
+  { id: 60,
+    title: "Lady's Gown",
+    img: 'img/gown2.jpeg',
+    price: 13,
+    brand: 'Channel',
+    info: "Original Channel's Branded Lady's Gown",
+    count: 0,
+    total: 0                            
+  },
+
+  { id: 61,
     title: "Men's Pant",
     img: 'img/d20.jpg',
     price: 13,
